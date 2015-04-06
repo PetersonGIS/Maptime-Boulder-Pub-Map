@@ -1,0 +1,4 @@
+Made by Gretchen Peterson for FOSS4GNA, 4/10/2015
+Data from Ordnance Survey, OpenStreetMap, UK Census, PetersonGIS github HistoricPubs | Font: Yanone Kaffeesatz
+The purpose of this map is to demo QGIS cartographic capabilities
+This map is not complete nor does it claim to be accurate
