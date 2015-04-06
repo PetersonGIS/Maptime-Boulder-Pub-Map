@@ -26,8 +26,8 @@ Open QGIS Desktop. Download the three datasets from the [data folder](https://gi
 
 ### Change the projection if needed
 + Check the bottom-right corner of the QGIS screen. If it says EPSG: 4326, we need to change the projection. If it says EPSG: 27700, it won't need to be changed as that's the British National Grid, which is what we want. There are several ways to change the projection. Here are two:
-++ Simply re-start QGIS and, when you add the four datasets to the project, be sure to drag either the wards or the dlua_region shapefiles first. QGIS uses the first projection added to the project as the default projection and since these two shapefiles are already in 27700, they will force the project default to that projection.
-++ Click Project>Project Properties>CRS>enable on the fly CRC transformation>Filter for "27700">click the British National Grid entry in the result window>OK
+- Simply re-start QGIS and, when you add the four datasets to the project, be sure to drag either the wards or the dlua_region shapefiles first. QGIS uses the first projection added to the project as the default projection and since these two shapefiles are already in 27700, they will force the project default to that projection.
+- Click Project>Project Properties>CRS>enable on the fly CRC transformation>Filter for "27700">click the British National Grid entry in the result window>OK
 
 ### Select polygons based on an expression
 + Right-click the wards dataset in the Layers List
