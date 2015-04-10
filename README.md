@@ -73,7 +73,7 @@ In the QGIS Layer List, click and drag the four files so that they are in this o
 + Color the background by clicking Project>project properties>background color, and use the RGB triplet: 87, 48, 112
 + hold off on coloring the SquareMile for now
 #### Take it to the next level
-Choose your own color palette. Try [coolors](app.coolors.co). Hat tip Rachel Stevenson.
+Choose your own color palette. Try [coolors](coolors.co). Hat tip Rachel Stevenson.
 
 ### Icons for the pub points
 + If you're running out of time symbolize the pubs as white dots, otherwise:
